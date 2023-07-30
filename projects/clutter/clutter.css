@@ -1,7 +1,18 @@
 .navbar {
   background-color: #005000;
-  color: #FFFFFF;
+  color: #FFF;
+  padding: 5px;
   margin: -10px;
+}
+
+a, a.visited {
+  color: #00FF00;
+  text-decoration: none;
+  text-weight: bold;
+}
+
+.navbar.a {
+  color: #EEE;
 }
 
 body {
