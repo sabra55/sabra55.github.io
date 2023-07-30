@@ -1,0 +1,10 @@
+.navbar {
+  background-color: #00A000;
+  color: #FFFFFF;
+  padding: 0px;
+}
+
+body {
+  user-select: none;
+  font-family: Tahoma, sans-serif;
+}
