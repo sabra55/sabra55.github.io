@@ -6,13 +6,9 @@
 }
 
 a, a.visited {
-  color: #00FF00;
+  color: #FFF;
   text-decoration: none;
   text-weight: bold;
-}
-
-.navbar.a {
-  color: #EEE;
 }
 
 body {
