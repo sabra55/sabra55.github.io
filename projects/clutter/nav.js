@@ -1,1 +1,1 @@
-document.body.innerHTML = "<div class=\"navbar\"><img src=clutter.svg height=20px width=80px /> | <a href=\"/projects/clutter/createclutter.html\">New Clutter</a> | <a href=\"scratch.mit.edu/projects/editor\">New Scratch Project</a></div><br>" + document.body.innerHTML;
+document.body.innerHTML = "<div class=\"navbar\"><img src=clutter.svg height=20px width=80px /> | <a href=\"/projects/clutter/createclutter.html\">New Clutter</a> | <a href=\"https://scratch.mit.edu/projects/editor\">New Scratch Project</a></div><br>" + document.body.innerHTML;
